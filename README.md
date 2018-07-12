@@ -13,6 +13,4 @@ An Android application to compress images. This project also includes run time p
 ----------------------------------------------------------------
 
 ## Any Queries or ideas, Please DM me on my socials
-### - **[Facebook](http://www.fb.com/user.khanstan)**
-### - **[Twitter](http://www.Twitter.com/khanstan99)**
-### - **[Insta](http://www.Instagram.com/khanstan99)**
+**[Facebook](http://www.fb.com/user.khanstan)** | **[Twitter](http://www.Twitter.com/khanstan99)** | **[Insta](http://www.Instagram.com/khanstan99)**
