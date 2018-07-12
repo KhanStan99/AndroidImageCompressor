@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Image Compressor</string>
+    <string name="this_will_attach_user_selected_image">This will Attach User Selected Image</string>
+    <string name="this_will_attach_compressed_image">This will attach compressed image</string>
+    <string name="txt_compress_image">Compress Image</string>
+    <string name="txt_pick_image">Pick Image</string>
+</resources>
