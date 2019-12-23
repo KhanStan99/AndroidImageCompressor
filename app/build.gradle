@@ -39,14 +39,10 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 
     //Photo Picker Library
-    implementation 'com.fxn769:pix:1.2.5'
     implementation 'com.github.esafirm.android-image-picker:imagepicker:2.2.0'
 
     //Photo Compression Library
-    //Excluding android.support because of some wired issue in support:appcompat-v7:27.1.1', Cant find any other solution for it.
-    implementation('id.zelory:compressor:2.1.0') {
-        exclude group: "com.android.support"
-    }
+    implementation('id.zelory:compressor:2.1.0')
 
     //Glide to load photo
     implementation('com.github.bumptech.glide:glide:4.7.1') {

@@ -5,7 +5,7 @@ An Android application to compress images. This project also includes run time p
 - **[zetbaitsu](https://github.com/zetbaitsu/Compressor)**
 
 ### Image Picker Library:
-- **fxn769 - Pix**
+- **Image Picker for Android (https://github.com/esafirm/android-image-picker)**
 
 ### Image Loader:
 - **[Bumptech - Glide](https://github.com/bumptech/glide)**
@@ -16,4 +16,4 @@ An Android application to compress images. This project also includes run time p
 https://play.google.com/store/apps/details?id=in.trentweet.imagecompressor
 
 ## Any Queries or ideas, Please DM me on my socials
-**[Facebook](http://www.fb.com/user.khanstan)** | **[Twitter](http://www.Twitter.com/khanstan99)** | **[Insta](http://www.Instagram.com/khanstan99)**
+**[Twitter](http://www.Twitter.com/khanstan99)** | **[Insta](http://www.Instagram.com/khanstan99)**
