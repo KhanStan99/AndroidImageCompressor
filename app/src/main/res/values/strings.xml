@@ -4,4 +4,7 @@
     <string name="this_will_attach_compressed_image">This will attach compressed image</string>
     <string name="txt_compress_image">Compress Image</string>
     <string name="txt_pick_image">Pick Image</string>
+    <string name="change_image">Change Image</string>
+    <string name="instruction">Click on the button to pick an image.</string>
+    <string name="instruction_seek_bar">Compress Level: %s percent</string>
 </resources>
